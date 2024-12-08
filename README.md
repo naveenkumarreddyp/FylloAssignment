@@ -9,12 +9,15 @@ The Analytics page is divided into two main sections, each featuring graphical r
 1. Section 1: Top Products Bar Charts
 
     Displays bar charts for:
-        Top 5 Required Products: 
+        Top 5 Required Products:
+   
             Products with the highest demand.
-        Top 5 Least Available Products: 
+   
+        Top 5 Least Available Products:
+   
             Products with the lowest availability
 
-2. Section 2: Requirement vs Availability
+3. Section 2: Requirement vs Availability
 
     Includes a visual comparison of Requirement vs Availability for products
     Users can toggle between:
@@ -22,7 +25,7 @@ The Analytics page is divided into two main sections, each featuring graphical r
         A Line Graph
     A dropdown menu is provided to switch between these two visualizations
 
-3. Filters:
+4. Filters:
 
     The top of the page includes dropdown filters for:
         Year
