@@ -9,6 +9,7 @@ The Analytics page is divided into two main sections, each featuring graphical r
 1. Section 1: Top Products Bar Charts
 
     Displays bar charts for:
+   
         Top 5 Required Products:
    
             Products with the highest demand.
